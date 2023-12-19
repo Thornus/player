@@ -1,7 +1,7 @@
 {
-  "name": "vidstack",
-  "version": "1.9.8",
-  "description": "UI component library for building high-quality, accessible video and audio experiences on the web.",
+  "name": "vidstack-with-rel",
+  "version": "1.9.9",
+  "description": "UI component library for building high-quality, accessible video and audio experiences on the web. With rel option for YouTube.",
   "license": "MIT",
   "type": "module",
   "types": "index.d.ts",

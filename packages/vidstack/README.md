@@ -1,3 +1,10 @@
+# What differs from the original repo?
+
+The "rel" option was added to the YouTubeProvider class.
+
+You can now set the rel option when you embed a YouTube video.
+By setting `rel=0` you won't see related videos.
+
 # Vidstack
 
 [![package-badge]][package]
