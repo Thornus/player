@@ -25,7 +25,7 @@ import { YouTubePlayerState, type YouTubePlayerStateValue } from './embed/state'
  */
 export class YouTubeProvider
   extends EmbedProvider<YouTubeMessage>
-  implements MediaProviderAdapter, Pick<YouTubeParams, 'color' | 'start' | 'end'>
+  implements MediaProviderAdapter, Pick<YouTubeParams, 'color' | 'start' | 'end' | 'rel'>
 {
   protected readonly $$PROVIDER_TYPE = 'YOUTUBE';
 
